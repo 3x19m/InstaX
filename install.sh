@@ -25,4 +25,5 @@ echo
 echo -e "\033[1;91m[*] \033[1;92mInstallation is completed"
 echo -e "\033[1;91m[*] \033[1;92mType command 'python Hax4_InstaX.py' to run the tool"
 echo
+python Hax4_InstaX.py
 
