@@ -1,3 +1,8 @@
+𝐀𝐝𝐦𝐢𝐧:
+<p align="center">
+𝙷𝚛1𝚍𝚘𝚢 / 𝙷𝚊𝚡4  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2>
+
+
 # 𝐇𝐚𝐱_𝐈𝐧𝐬𝐭𝐚𝐗
 [ 𝚄𝚜𝚎 𝚃𝚘𝚛 𝙸𝚗 𝙱𝚊𝚐𝚛𝚘𝚞𝚗𝚍 ⚠️ ]
 
