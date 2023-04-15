@@ -7,11 +7,11 @@
 
 Installation ~#
 
-git clone https://github.com/h4x3r1/Hax4_InstaX
+ git clone https://github.com/h4x3r1/Hax4_InstaX
 
-cd Hax4_InstaX
+ cd Hax4_InstaX
 
-python3 Hax4_InstaX.py
+ python3 Hax4_InstaX.py
 
 
 𝐈𝐟 𝐘𝐨𝐮 𝐰𝐚𝐧𝐭 𝐓𝐡𝐞 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 𝐓𝐡𝐞𝐧 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞𝐡 💫
