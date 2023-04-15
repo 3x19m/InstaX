@@ -1,6 +1,6 @@
-𝐀𝐝𝐦𝐢𝐧:
+𝐀𝐮𝐭𝐡𝐨𝐫:
 <p align="center">
-𝙷𝚛1𝚍𝚘𝚢 / 𝙷𝚊𝚡4  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2>
+𝐇𝐚𝐱4 / ريدوي  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2>
 
 
 # 𝐇𝐚𝐱_𝐈𝐧𝐬𝐭𝐚𝐗
