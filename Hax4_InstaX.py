@@ -1,6 +1,6 @@
 # Encoded By : Hax4_Hr1doy
 # Encryption : Py3 Marshal+Zlib+B64
-# Github: https://github.com/h4x3r1
+# Github: https://github.com/h4x3r1 [Update Comming]
 #----------------------------------------------
 
 import marshal, base64, zlib
