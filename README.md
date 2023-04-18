@@ -12,15 +12,15 @@
 
 Installation ~#
 
- git clone https://github.com/h4x3r1/Hax4_InstaX
+ * `git clone https://github.com/h4x3r1/Hax4_InstaX`
 
- cd Hax4_InstaX
+* `cd Hax4_InstaX`
  
- chmod +x install.sh
+* `chmod +x install.sh`
 
- bash install.sh
+* `bash install.sh`
 
- python3 Hax4_InstaX.py
+* `python3 Hax4_InstaX.py`
 
 (𝚂𝚝𝚊𝚛𝚝 𝚃𝚘𝚛 𝚒𝚗 𝙰𝚗𝚘𝚝𝚑𝚎𝚛 𝚂𝚎𝚜𝚜𝚒𝚘𝚗)
 
