@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F709&width=435&lines=ADVANCED+INSTAGRAM+BRUTEFORCE+ATTACK)
 𝐀𝐮𝐭𝐡𝐨𝐫:
 <p align="center">
 𝐇𝐚𝐱4 / ريدوي  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2>
@@ -24,5 +25,6 @@ Installation ~#
 
 (𝚂𝚝𝚊𝚛𝚝 𝚃𝚘𝚛 𝚒𝚗 𝙰𝚗𝚘𝚝𝚑𝚎𝚛 𝚂𝚎𝚜𝚜𝚒𝚘𝚗)
 
-𝐈𝐟 𝐘𝐨𝐮 𝐰𝐚𝐧𝐭 𝐓𝐡𝐞 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 𝐓𝐡𝐞𝐧 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞𝐡 💫
+`𝐈𝐟 𝐲𝐨𝐮 𝐍𝐞𝐞𝐝 𝐓𝐡𝐞 𝐬𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 𝐓𝐡𝐞𝐧 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞𝐡. 𝐃𝐨𝐧'𝐭 𝐇𝐚𝐯𝐞 𝐀𝐧𝐲 𝐍𝐞𝐞𝐝 𝐓𝐨 𝐃𝐞𝐜𝐨𝐦𝐩𝐢𝐥𝐞 ❤️‍🩹`
+
 # (𝙵𝚛𝚎𝚎)
