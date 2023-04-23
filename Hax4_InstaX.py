@@ -1,4 +1,4 @@
-# Encoded By : Hax4_Hr1doy
+# Encoded By : Fucking 📑
 # Encryption : Py3 Marshal+Zlib+B64
 # Github: https://github.com/h4x3r1 [Update Comming]
 #----------------------------------------------
