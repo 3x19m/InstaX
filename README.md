@@ -26,4 +26,4 @@ Installation ~#
 # Use Tor In Another Session Of TermuX
 
 
-# (FREE)
+# ( FREE OF COST )
