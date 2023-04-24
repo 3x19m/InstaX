@@ -1,4 +1,4 @@
-# Encoded By : Fucking 📑
+# Encoded By : au0_root 📑
 # Encryption : Py3 Marshal+Zlib+B64
 # Github: https://github.com/h4x3r1 
 #----------------------------------------------
