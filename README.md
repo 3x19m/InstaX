@@ -11,15 +11,15 @@ Console / ريدوي
 
 Installation ~#
 
-* `git clone https://github.com/h4x3r1/Hax4_InstaX`
+* `git clone https://github.com/h4x3r1/InstaX`
 
-* `cd Hax4_InstaX`
+* `cd InstaX`
  
 * `chmod +x install.sh`
 
 * `bash install.sh`
 
-* `python3 Hax4_InstaX.py`
+* `python3 InstaX.py`
 
 ### Use Tor In Another Session Of TermuX
 
