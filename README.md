@@ -19,7 +19,7 @@ Installation ~#
 
 * `bash install.sh`
 
-* `python3 InstaX.py`
+* `python3 Hax4_InstaX.py`
 
 ### Use Tor In Another Session Of TermuX
 
