@@ -1,4 +1,3 @@
-# Encoded By : au0_root 📑
 #If You Wanna Take Credits For This Code, Please Look Yourself Again.
 # Github     : https://github.com/h4x3r1 
 #----------------------------------------------
